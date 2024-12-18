@@ -2,16 +2,17 @@
 Marlin -- Salish Sea NEMO svn-hg Maintenance Tool
 *************************************************
 
-``marlin`` is a command line tool for maintenance of the Salish Sea MEOPAR project NEMO-hg-mirror code repository.
-It's main purpose is to automate the process of incorporating Subversion revisions from the NEMO master repository into our Mercurial repository.
+``marlin`` is a command line tool for maintenance of the SalishSeaCast project
+``NEMO-hg-mirror`` code repository.
+It's main purpose is to automate the process of incorporating Subversion revisions from
+the NEMO master repository into our Mercurial repository.
 
 Use ``marlin --help`` to get a list of the sub-commands available.
 Use ``marline help <sub-command>`` to get a synopsis of what a sub-command does,
 what its required arguments are,
 and what options are available to control it.
 
-Documentation for ``marlin`` is in the ``docs/`` directory and is rendered at
-https://salishsea-meopar-tools.readthedocs.org/en/latest/Marlin/.
+Documentation for ``marlin`` is in the ``docs/`` directory.
 
 Yes,
 ``marlin`` is named for `Nemo's over-protective father`_...
@@ -22,7 +23,8 @@ Yes,
 License
 =======
 
-The ``marlin`` code and documentation are copyright 2014-2021 by the Salish Sea MEOPAR Project Contributors and The University of British Columbia.
+The ``marlin`` code and documentation are copyright 2014-2021 by the
+SalishSeaCast Project Contributors and The University of British Columbia.
 
 They are licensed under the Apache License, Version 2.0.
 https://www.apache.org/licenses/LICENSE-2.0
