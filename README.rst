@@ -2,7 +2,7 @@
 Marlin -- Salish Sea NEMO svn-hg Maintenance Tool
 *************************************************
 
-*This repository has been archived because the ``marlin`` tool is outdated and no longer
+**This repository has been archived because the ``marlin`` tool is outdated and no longer
 being used as part of SalishSeaCast.**
 Please contact @SusanEAllen or @DougLatornell if you see a need for this repository
 to be re-activated.
