@@ -1,6 +1,6 @@
-*************************************************
-Marlin -- Salish Sea NEMO svn-hg Maintenance Tool
-*************************************************
+****************************************************
+Marlin -- SalishSeaCast NEMO svn-hg Maintenance Tool
+****************************************************
 
 **This repository has been archived because the ``marlin`` tool is outdated and no longer
 being used as part of SalishSeaCast.**
